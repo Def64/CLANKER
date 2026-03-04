@@ -1,0 +1,30 @@
+{
+  "name": "wb3000",
+  "version": "1.0.0",
+  "description": "A bot for the Official Wiithym Server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"poo poo test\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Def64/CLANKER.git"
+  },
+  "keywords": [
+    "wii",
+    "rhythm"
+  ],
+  "author": "defisreal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Def64/CLANKER/issues"
+  },
+  "homepage": "https://github.com/Def64/CLANKER#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.0.2"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1"
+  }
+}
